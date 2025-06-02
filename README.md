@@ -1,1 +1,1 @@
-# Smart-water-meter-with-control-panel-iot-V4
+Smart meter competing with EGAS, Ital Group, CWM, Itron, Kamstrup, Zenner, Honeywell
